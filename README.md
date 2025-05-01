@@ -1,5 +1,5 @@
 
-# 🔍 SVM Classification Web App
+# 🔍 Optimize Energy Consumption of Steel Manufacturing Plant
 
 This is a **Streamlit-based web application** that allows users to upload a CSV file and get predictions using a **Support Vector Machine (SVM)** classification model.
 
@@ -74,6 +74,7 @@ streamlit run app.py
 
 ## 📬 Author
 
-Developed by **@vicky**  
-This app is designed for simple and fast classification with pre-trained models in a no-code web interface.
+Developed by **@srikanth**  
+For any quries contact:
+Email : srikanthtata2002@gmail.com
 
